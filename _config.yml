@@ -19,14 +19,11 @@ title: Saúl Fernández García
 tagline: Welcome to my blog! :)
 
 description: >- # used by seo meta and the atom feed
-  Saúl Fernández García - Phoenix Ablaze blog cybersecurity coding canva
+  Saúl Fernández García - Phoenix Ablaze blog cybersecurity hacking coding china spain canva
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://saulfernandezgarcia.github.io"
-#url: "saulfernandezgarcia.github.io"
-
-
 
 github:
   username: saulfernandezgarcia
@@ -44,7 +41,7 @@ social:
     #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/saulfernandezgarcia # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.linkedin.com/in/saulfernandezgarcia
+    - https://www.linkedin.com/in/saulfernandezgarcia
 
 google_site_verification: # fill in to your verification string
 
