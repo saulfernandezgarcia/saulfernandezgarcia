@@ -2,7 +2,7 @@
 title: Winter Vacations in China
 date: 2024-02-20 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
-tags: [unnc, china, japan, 2024]     # TAG names should always be lowercase
+tags: [unnc, china, japan, '2024']     # TAG names should always be lowercase
 image:
  path: /assets/img/china/Great_Wall_Saul_FG.jpg
  alt: Saúl FG at the Great Wall (click for full size)
