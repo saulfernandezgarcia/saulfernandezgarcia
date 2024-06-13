@@ -17,29 +17,16 @@ To apply, us, candidates, had to showcase our strengths for this position. I app
 After each candidate showed their aptitude for the program, I passed as one of the 6 exchange student spokespeople for the UNNC! Let's now see what was one of my most memorable responsabilities under this position.
 
 (Also, FIND LINKS:
-- wechat articles
-- prepare caixa interviews links in a different post and hyperlink
-- SPECIFIC institutions with which I shared my speech)
+- wechat articles)
 
 ## UNNC Partner Day
 
-During the UNNC Partner Day I fulfilled my most important responsability as a UNNC Spokesman: sharing with partner institutions and other UNNC departments about my experience at the UNNC and in China. This day has the goal of strenghtening bonds and forging new connections between institutions, therefore it was an honour for me to contribute to the cause by talking about my experience. As such, I prepared a (really cool) presentation in which I went through different key points of my time here in China, from the UNNC Welcoming Week, to cultural activities, opportunities on campus, my associations and clubs, sports, and friendships.
+During the UNNC Partner Day I fulfilled my most important responsability as a UNNC Spokesman: sharing with partner institutions and other UNNC departments about my experience at the UNNC and in China. This day has the goal of strenghtening bonds and forging new connections between institutions, therefore it was an honour for me to contribute to the cause by talking about my experience to Shanghai Jiao Tong University, University of Southern California, University of Glasgow, Boston University, Xiamen University, City University of Hong Kong Dongguan, Loughborough University, Bocconi University... (these are some I can remember, but the room was filled with representatives!). As such, I prepared a (really cool) presentation in which I went through different key points of my time here in China, from the UNNC Welcoming Week, to cultural activities, opportunities on campus, my associations and clubs, sports, and friendships.
 
-(pictures)
+![](/assets/img/china/exchangeStudentSpokesman/saulfgExchangeStudentSpokesman1.jpg)
+_Talking about the Welcoming Week at the UNNC_
 
 I like to keep my material for the presentations, like the PowerPoint, really light word-wise and, if possible, to keep only pictures and some keywords around. Besides, I also included a small clip from my video of the winter vacations in China, so the talk turned even more enjoyable.
-
-Some of the universities present at the moment of my presentation were
-Shanghai Jiao Tong University
-University of Southern California
-University of Glasgow
-Boston University
-Xiamen University
-City University of Hong Kong (Dongguan)
-Loughborough University
-Bocconi University
-
-
 
 Overall, 
 
