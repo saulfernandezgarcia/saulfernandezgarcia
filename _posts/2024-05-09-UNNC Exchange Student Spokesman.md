@@ -8,7 +8,7 @@ image:
  alt: Giving a speech about my experience at the UNNC to partner institutions (click for full size! You can see the UNNC official watermark! :D)
 ---
 
-## Representing the UNNC as a Exchange Student Spokesman
+## Representing the UNNC as an Exchange Student Spokesman: compromise and opportunities
 
 The UNNC Global Engagement Office (GEO) released a program that brings the opportunity for students that are open-minded, enthusiastic in Chinese culture and the UNNC, and with a passion in communication, to promote their experiences with other people as a spokesman of the UNNC.
 
